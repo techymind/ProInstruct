@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Nunito', sans-serif;
+}
+.menu-bar {
+    background-image: linear-gradient(-90deg, #D77FA1 #a83279);
+
+}
+.nav-links {
+    font-size: 16px;
+    margin: 3px;
+    color: #fff!important;
+    font-weight: 400;
+}

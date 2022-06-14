@@ -1,0 +1,27 @@
+.navbar 
+{
+background-image: linear-gradient(to right, rgba(79, 20, 6, 0.333), rgb(220, 242, 180));
+padding: 0%;
+}
+#nav-bar
+{
+    z-index: 10;
+}
+.navbar-brand img
+{
+   height: 40px; 
+   padding-left: 20px;
+}
+.bigtext
+{
+  font-size: 52px;  
+  font-weight: ;
+  margin-top: 100px;
+  color: rgb(10, 10, 10);
+}
+.image-fluid
+{
+  margin-top: 40px;
+  padding-left: 20px;
+
+}
